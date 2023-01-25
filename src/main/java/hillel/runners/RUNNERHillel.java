@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
 
         features = "src/main/java/hillel/features",//path to feature files
         glue = "hillel.steps",//package path
-        tags = "@CER"//list feature files for run
+        tags = "@ALL"//list feature files for run
 
 )
 public class RUNNERHillel  {
